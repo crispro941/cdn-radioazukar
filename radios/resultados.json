@@ -1,0 +1,135 @@
+[
+    {
+        "nombre": "90.1 fm Región Metropolitana",
+        "streaming": "https://audio2.tustreaming.cl/8300/azucarsantiago",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/90-1-fm-region-metropolitana.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/santiago/assets/img/BG/santiago24.jpg",
+        "pagina": "http://radioazucar.cl/repro/santiago/index.html"
+    },
+    {
+        "nombre": "97.3 fm Iquique - Alto Hospicio",
+        "streaming": "https://audio1.tustreaming.cl:10951/azucariquique",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/97-3-fm-iquique-alto-hospicio.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/iquique/assets/img/BG/bgiquique1.jpg",
+        "pagina": "http://radioazucar.cl/repro/iquique/index.html"
+    },
+    {
+        "nombre": "90.3 fm Calama",
+        "streaming": "https://audio1.tustreaming.cl:10952/azucarcalama",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/90-3-fm-calama.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/calama/assets/img/BG/bgcalama.jpg",
+        "pagina": "http://radioazucar.cl/repro/calama/index.html"
+    },
+    {
+        "nombre": "Señal Online 100.7 fm OValle",
+        "streaming": "https://audio3.tustreaming.cl:10963/ovalle",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/senal-online-100-7-fm-ovalle.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/ovalle/assets/img/BG/bgovalle1.jpg",
+        "pagina": "http://radioazucar.cl/repro/ovalle/index.html"
+    },
+    {
+        "nombre": "Señal Online 90.9 fm La Ligua",
+        "streaming": "https://audio5.tustreaming.cl:10955/laligua",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/senal-online-90-9-fm-la-ligua.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/laligua/assets/img/BG/bglaligua1.jpg",
+        "pagina": "http://radioazucar.cl/repro/laligua/index.html"
+    },
+    {
+        "nombre": "90.7 fm San Felipe - Los Andes",
+        "streaming": "https://audio3.tustreaming.cl/7070/sanfelipe",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/90-7-fm-san-felipe-los-andes.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/sanfelipe/assets/img/BG/bgsanfelipe1.jpg",
+        "pagina": "http://radioazucar.cl/repro/sanfelipe/index.html"
+    },
+    {
+        "nombre": "102.3 fm Calera y Quillota",
+        "streaming": "https://audio1.tustreaming.cl:10950/azucarcalera",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/102-3-fm-calera-y-quillota.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/quillota/assets/img/BG/bgcalera1.jpg",
+        "pagina": "http://radioazucar.cl/repro/quillota/index.html"
+    },
+    {
+        "nombre": "96.3 fm Llay Llay",
+        "streaming": "https://audio5.tustreaming.cl/7460/azucallayllay",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/96-3-fm-llay-llay.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/llay/assets/img/BG/bgllay1.jpg",
+        "pagina": "http://radioazucar.cl/repro/llay/index.html"
+    },
+    {
+        "nombre": "97.3 fm Melipilla",
+        "streaming": "https://audio1.tustreaming.cl:10949/azucarmelipilla",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/97-3-fm-melipilla.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/melipilla/assets/img/BG/bgmelipilla1.jpg",
+        "pagina": "http://radioazucar.cl/repro/melipilla/index.html"
+    },
+    {
+        "nombre": "96.7 fm Rancagua",
+        "streaming": "https://audio2.tustreaming.cl/8350/azucarrancagua",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/96-7-fm-rancagua.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/ranca/assets/img/BG/bgrancagua1.jpg",
+        "pagina": "http://radioazucar.cl/repro/ranca/index.html"
+    },
+    {
+        "nombre": "88.5 fm Litueche",
+        "streaming": "https://audio3.tustreaming.cl:10968/azucarlitueche",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/88-5-fm-litueche.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/litu/assets/img/BG/bglitueche1.jpg",
+        "pagina": "http://radioazucar.cl/repro/litu/index.html"
+    },
+    {
+        "nombre": "98.3 fm Pichilemu",
+        "streaming": "https://audio3.tustreaming.cl:10960/pichilemu",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/98-3-fm-pichilemu.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/pichilemu/assets/img/BG/bgpichilemu1.jpg",
+        "pagina": "http://radioazucar.cl/repro/pichilemu/index.html"
+    },
+    {
+        "nombre": "104.5 fm Concepción",
+        "streaming": "https://audio3.tustreaming.cl/7020/concepcion",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/104-5-fm-concepcion.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/conce/assets/img/BG/bgconcepcion.jpg",
+        "pagina": "http://radioazucar.cl/repro/conce/index.html"
+    },
+    {
+        "nombre": "Señal Online 93.1 fm Osorno",
+        "streaming": "https://audio3.tustreaming.cl:10958/osorno",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/senal-online-93-1-fm-osorno.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/osorno/assets/img/BG/bgosorno1.jpg",
+        "pagina": "http://radioazucar.cl/repro/osorno/index.html"
+    },
+    {
+        "nombre": "94.7 fm Fresia",
+        "streaming": "https://audio5.tustreaming.cl/7420/fresia",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/94-7-fm-fresia.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/fresia/assets/img/BG/bgfresia.jpg",
+        "pagina": "http://radioazucar.cl/repro/fresia/index.html"
+    },
+    {
+        "nombre": "101.7 fm Ancud",
+        "streaming": "https://audio3.tustreaming.cl:10966/azucarancud",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/101-7-fm-ancud.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/ancud/assets/img/BG/bgancud.jpg",
+        "pagina": "http://radioazucar.cl/repro/ancud/index.html"
+    },
+    {
+        "nombre": "88.7 fm Castro",
+        "streaming": "https://audio3.tustreaming.cl:10967/azucarcastro",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/88-7-fm-castro.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/castro/assets/img/BG/bgcastro1.jpg",
+        "pagina": "http://radioazucar.cl/repro/castro/index.html"
+    },
+    {
+        "nombre": "104.7 fm Cohyaique",
+        "streaming": "https://audio2.tustreaming.cl/8140/stream",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/104-7-fm-cohyaique.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/coyha/assets/img/BG/bgcoyha.jpg",
+        "pagina": "http://radioazucar.cl/repro/coyha/index.html"
+    },
+    {
+        "nombre": "88.1 fm Punta Arenas",
+        "streaming": "https://audio5.tustreaming.cl:10958/puntarenas",
+        "imagen": "https://raw.githubusercontent.com/crispro941/cdn-radioazukar/main/radios/imagenes/88-1-fm-punta-arenas.jpg",
+        "imagen_original": "http://radioazucar.cl/repro/puntaarenas/assets/img/BG/bgpun.jpg",
+        "pagina": "http://radioazucar.cl/repro/puntaarenas/index.html"
+    }
+]
